@@ -1,0 +1,9 @@
+#productList{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+#productImg {
+    height: 50px;
+    width: 50px;
+}
